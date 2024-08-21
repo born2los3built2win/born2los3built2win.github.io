@@ -127,7 +127,7 @@ yandex_site_verification:
 
 # Social Sharing
 twitter:
-  username: &@Born2LBuilt2W
+  username: &twitter
 facebook:
   username:
   app_id:
