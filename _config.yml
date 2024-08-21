@@ -12,7 +12,7 @@ title: "Ricot Lominy / Writeups & Research"
 title_separator: "-"
 name: &name "Ricot Lominy"
 description: &description "personal description"
-url: https://born2los3built2win.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: https://born2los3built2win.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: "born2los3built2win/born2los3built2win.github.io"
 
