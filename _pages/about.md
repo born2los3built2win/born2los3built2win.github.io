@@ -42,7 +42,7 @@ Example: editing a markdown file for a talk
 
 ## Buttons
 
-Make any link standout more when applying the `.btn` class.
+Make any link standout more when applying the .btn class.
 
 ## For more info
 
