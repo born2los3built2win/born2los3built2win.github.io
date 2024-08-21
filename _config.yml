@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale: "en-US"
-title: "Your Name / Writeups & Research"
+title: "Ricot Lominy / Writeups & Research"
 title_separator: "-"
 name: &name "Ricot Lominy"
 description: &description "personal description"
