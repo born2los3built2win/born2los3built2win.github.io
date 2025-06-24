@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://born2los3built2win.github.io/al-folio/sitemap.xml
+Sitemap: https://born2los3built2win.github.io/sitemap.xml
